@@ -1,0 +1,116 @@
+.navbar{
+  background-color:#ced4da;
+}
+
+.navbar-brand{
+  margin-left: 1em;
+}
+
+.navbar-nav{
+  margin-right: 1em;
+}
+
+.collapse{
+  margin-left: 2%;
+}
+
+.navbar-toggler{
+  margin-right: 1em;
+}
+
+ #ci{
+   width: 100%;
+   height: 100%;
+   position: fixed;
+ }
+
+#ct{
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-style: double;
+  font-family: cursive,serif,fantasy,times new roman;
+}
+
+.btn{
+  background-color:#5e60ce;
+}
+
+.heading{
+  margin-left: 4em;
+  margin-top: 1em;
+}
+
+.lorem{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 5px 5px 8px 5px #adb5bd;
+  width: 30%;
+  height: 30%
+}
+
+.ct{
+  color: black;
+}
+
+.icon{
+  margin-top: 1em;
+  font-size: 2em;
+}
+
+.text{
+  margin-top: 2em;
+  text-align: center;
+}
+
+.r{
+margin-left: 1em;
+}
+
+.s{
+margin-left: 1.5em;
+}
+
+#c{
+  width: 20%;
+  height: 25%;
+}
+
+.se{
+  color: black;
+  margin-top: 1em;
+  align-items: center;
+}
+
+.h{
+  margin-top: 1em;
+  text-align: center;
+  color: black;
+}
+
+#cd{
+  margin-top: 1.5em
+}
+
+#form{
+  margin-bottom: 2em
+}
+
+.q{
+  margin-top: 2em;
+  color: black;
+}
+
+#bt{
+text-align: right;
+}
+
+.contact{
+  color: black;
+  text-align: center;
+}
+
+.cf{
+  margin-bottom: 1em;
+  text-align: center;
+}
